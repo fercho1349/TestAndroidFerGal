@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestAndroid</string>
+    <string name="fallback_error">Por el momento no pudimos procesar la solicitud</string>
+    <string name="error_400">Por el momento esta sección esta fuera de servicio debido a un mantenimiento</string>
+    <string name="retry">Volver a intentar</string>
+    <string name="price">Precio: </string>
+    <string name="txt_username">Username: </string>
+    <string name="txt_email">Email: </string>
+    <string name="txt_title_user">USUARIO</string>
+    <string name="prompt_user">Usuario</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_register">Registrarse</string>
+</resources>
